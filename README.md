@@ -6,6 +6,12 @@
 <p>GLFW - <a href="https://www.glfw.org/">https://www.glfw.org/</a></p>
 <p>GLM - <a href="https://github.com/g-truc/glm">https://github.com/g-truc/glm</a></p>
 
+<h2>Current Features:</h2>
+<ul>
+  <li>Window Creation</li>
+  <li>GPU Hardware Detection</li>
+</ul>
+
 <h2>Future Plans:</h2>
 <ul>
   <li>Simple lighting</li>
