@@ -14,6 +14,9 @@ namespace finengine {
 			finwindow &operator = (const finwindow&) = delete;
 
 			bool shouldClose() { return glfwWindowShouldClose(window); }
+			
+			void createWindowSurface(VkInstance instance, VkSurfaceKHR* surface);
+	
 		private:
 			void initWindow();
 			//initialize height and width of the window

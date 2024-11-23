@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="findevice.hpp" />
     <ClInclude Include="finwindow.hpp" />
     <ClInclude Include="firstapp.hpp" />
     <ClInclude Include="finpipeline.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="findevice.cpp" />
     <ClCompile Include="finwindow.cpp" />
     <ClCompile Include="firstapp.cpp" />
     <ClCompile Include="main.cpp" />

@@ -2,7 +2,7 @@
 
 namespace finengine {
 	void firstapp::run() {
-		while (!finwindow.shouldClose()) {
+		while (!finWindow.shouldClose()) {
 			glfwPollEvents();
 		}
 	}

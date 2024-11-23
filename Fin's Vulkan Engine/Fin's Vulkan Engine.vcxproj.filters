@@ -23,6 +23,9 @@
     <ClInclude Include="finpipeline.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="findevice.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="finwindow.cpp">
@@ -35,6 +38,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="finpipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="findevice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
