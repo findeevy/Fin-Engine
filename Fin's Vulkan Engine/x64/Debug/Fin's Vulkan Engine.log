@@ -1,6 +1,2 @@
-﻿  finwindow.cpp
-  firstapp.cpp
-  main.cpp
-  Generating Code...
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+﻿  finpipeline.cpp
   Fin's Vulkan Engine.vcxproj -> C:\Users\finde\source\repos\Fin's Vulkan Engine\x64\Debug\Fin's Vulkan Engine.exe

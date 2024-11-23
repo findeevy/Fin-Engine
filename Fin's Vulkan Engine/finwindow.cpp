@@ -1,4 +1,4 @@
-#include "finwindow.h"
+#include "finwindow.hpp"
 
 namespace finengine {
 	finwindow::finwindow(int w, int h, std::string name) : width{ w }, height{ h }, windowName{ name }{
